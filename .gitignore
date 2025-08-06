@@ -1,0 +1,10 @@
+
+/data/*
+!/data/README.md
+*.pbix
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.venv/
+.env
+
